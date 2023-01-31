@@ -1,0 +1,4 @@
+#package requis pour le projet
+pytorch
+numpy
+flask
